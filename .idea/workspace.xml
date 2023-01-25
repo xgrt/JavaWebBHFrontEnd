@@ -5,26 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial">
-      <change afterPath="$PROJECT_DIR$/HTML/00none.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/01HTML案例.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/01hello world.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/02基础标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/03图片音频视频标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/04超链接标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/05列表标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/06表格标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/img/三只松鼠.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/img/优衣库.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/img/小米.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/文件/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/文件/b.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/文件/c.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/06布局标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/07表单标签.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/01HTML案例.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/00HTML案例.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/01hello world.htm" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/00hello world.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/02基础标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/01基础标签.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/03图片音频视频标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/02图片音频视频标签.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/04超链接标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/03超链接标签.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/05列表标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/04列表标签.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/06表格标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/05表格标签.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,13 +35,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KnXuFLZXvZ7SvzsZj7STquQjEo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -56,14 +61,25 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java程序\JavaWebBHFrontEnd\HTML" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java程序\JavaWebBHFrontEnd\HTML" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="06表格标签.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/06表格标签.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.07表单标签.html">
+    <configuration name="05表格标签.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/05表格标签.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="06布局标签.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/06布局标签.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="07表单标签.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/07表单标签.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.06表格标签.html" />
+        <item itemvalue="JavaScript Debug.07表单标签.html" />
+        <item itemvalue="JavaScript Debug.06布局标签.html" />
+        <item itemvalue="JavaScript Debug.05表格标签.html" />
       </list>
     </recent_temporary>
   </component>
@@ -75,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674611556301</updated>
-      <workItem from="1674611559952" duration="1063000" />
+      <workItem from="1674611559952" duration="3015000" />
     </task>
     <task id="LOCAL-00001" summary="Commit initial">
       <created>1674611769601</created>
@@ -84,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674611769602</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit initial">
+      <created>1674612736002</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674612736002</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
