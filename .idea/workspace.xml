@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial">
-      <change afterPath="$PROJECT_DIR$/HTML/06布局标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/07表单标签.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/01HTML案例.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/00HTML案例.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/01hello world.htm" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/00hello world.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/02基础标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/01基础标签.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/03图片音频视频标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/02图片音频视频标签.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/04超链接标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/03超链接标签.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/05列表标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/04列表标签.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/06表格标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/05表格标签.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/07表单标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/07表单标签.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674611556301</updated>
-      <workItem from="1674611559952" duration="3015000" />
+      <workItem from="1674611559952" duration="3124000" />
     </task>
     <task id="LOCAL-00001" summary="Commit initial">
       <created>1674611769601</created>
@@ -107,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674612736002</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit initial">
+      <created>1674614686051</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674614686051</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

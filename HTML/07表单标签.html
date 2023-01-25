@@ -12,8 +12,10 @@ from:
     method:指定表单提交的方式
         1. get：默认值
             * 请求参数会拼接在URL后边
+            * URL的长度有限制 4kb
         2. post：
             * 请求参数会在http请求协议的请求体中
+            * 请求参数无限制
 -->
 <form action="#" method="get">
     <input type="text" name="name">
