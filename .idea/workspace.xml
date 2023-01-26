@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial">
-      <change afterPath="$PROJECT_DIR$/css/01CSS入门.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/02_css导入方式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/demo.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/01CSS入门.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/01_CSS入门.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -34,21 +37,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java程序/JavaWebBHFrontEnd/HTML&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "D:/java程序/JavaWebBHFrontEnd/HTML",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java程序\JavaWebBHFrontEnd\HTML" />
@@ -57,11 +61,11 @@
       <recent name="D:\java程序\JavaWebBHFrontEnd\HTML" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.01CSS入门.html">
-    <configuration name="01CSS入门.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/css/01CSS入门.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.02_css导入方式.html">
+    <configuration name="01_CSS入门.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/01_CSS入门.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="05表格标签.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/05表格标签.html" useBuiltInWebServerPort="true">
+    <configuration name="02_css导入方式.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/02_css导入方式.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="06布局标签.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/06布局标签.html" useBuiltInWebServerPort="true">
@@ -75,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.01CSS入门.html" />
+        <item itemvalue="JavaScript Debug.02_css导入方式.html" />
+        <item itemvalue="JavaScript Debug.01_CSS入门.html" />
         <item itemvalue="JavaScript Debug.08表单项标签.html" />
         <item itemvalue="JavaScript Debug.07表单标签.html" />
         <item itemvalue="JavaScript Debug.06布局标签.html" />
-        <item itemvalue="JavaScript Debug.05表格标签.html" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +97,7 @@
       <updated>1674611556301</updated>
       <workItem from="1674611559952" duration="9884000" />
       <workItem from="1674724567238" duration="462000" />
-      <workItem from="1674725778386" duration="634000" />
+      <workItem from="1674725778386" duration="1349000" />
     </task>
     <task id="LOCAL-00001" summary="Commit initial">
       <created>1674611769601</created>
@@ -165,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674725973623</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Commit initial">
+      <created>1674726491856</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674726491856</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
