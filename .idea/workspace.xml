@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial">
-      <change afterPath="$PROJECT_DIR$/HTML/13css选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/21JavaScript引入方式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/22JavaScript输出语句.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/demo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -42,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "D:/java程序/JavaWebBHFrontEnd/HTML/文件",
+    "last_opened_file_path": "D:/java程序/JavaWebBHFrontEnd/HTML",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -53,20 +56,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\java程序\JavaWebBHFrontEnd\HTML\文件" />
       <recent name="D:\java程序\JavaWebBHFrontEnd\HTML" />
+      <recent name="D:\java程序\JavaWebBHFrontEnd\HTML\文件" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\java程序\JavaWebBHFrontEnd\HTML" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.13css选择器.html">
-    <configuration name="07表单标签.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/07表单标签.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="08表单项标签.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/08表单项标签.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.22JavaScript输出语句.html">
     <configuration name="11CSS入门.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/11CSS入门.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -76,13 +73,19 @@
     <configuration name="13css选择器.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/13css选择器.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="21JavaScript引入方式.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/21JavaScript引入方式.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="22JavaScript输出语句.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/22JavaScript输出语句.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.22JavaScript输出语句.html" />
+        <item itemvalue="JavaScript Debug.21JavaScript引入方式.html" />
         <item itemvalue="JavaScript Debug.13css选择器.html" />
         <item itemvalue="JavaScript Debug.12css导入方式.html" />
         <item itemvalue="JavaScript Debug.11CSS入门.html" />
-        <item itemvalue="JavaScript Debug.08表单项标签.html" />
-        <item itemvalue="JavaScript Debug.07表单标签.html" />
       </list>
     </recent_temporary>
   </component>
@@ -96,7 +99,7 @@
       <updated>1674611556301</updated>
       <workItem from="1674611559952" duration="9884000" />
       <workItem from="1674724567238" duration="462000" />
-      <workItem from="1674725778386" duration="2947000" />
+      <workItem from="1674725778386" duration="5461000" />
     </task>
     <task id="LOCAL-00001" summary="Commit initial">
       <created>1674611769601</created>
@@ -196,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674727491795</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Commit initial">
+      <created>1674728995296</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674728995296</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
