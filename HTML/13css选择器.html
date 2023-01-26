@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>css选择器</title>
+    <style>/*谁选择的范围小，谁先生效*/
+    div {
+        color: #7a89e8
+    }
+
+    /*id选择器只能选择1个*/
+    #name {
+        color: #064ea9;
+    }
+
+    /*类选择器可以选择多个*/
+    .cls {
+        color: #9147ea;
+    }
+    </style>
+</head>
+<body>
+<div>div1</div>
+<div id="name">div2</div>
+<div class="cls">div3</div>
+
+<span class="cls">span</span>
+</body>
+</html>
