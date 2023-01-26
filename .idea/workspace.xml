@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial" />
+    <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial">
+      <change afterPath="$PROJECT_DIR$/css/01CSS入门.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +57,10 @@
       <recent name="D:\java程序\JavaWebBHFrontEnd\HTML" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.08表单项标签.html">
+  <component name="RunManager" selected="JavaScript Debug.01CSS入门.html">
+    <configuration name="01CSS入门.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/css/01CSS入门.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="05表格标签.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/05表格标签.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -69,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.01CSS入门.html" />
         <item itemvalue="JavaScript Debug.08表单项标签.html" />
         <item itemvalue="JavaScript Debug.07表单标签.html" />
         <item itemvalue="JavaScript Debug.06布局标签.html" />
@@ -86,6 +93,7 @@
       <updated>1674611556301</updated>
       <workItem from="1674611559952" duration="9884000" />
       <workItem from="1674724567238" duration="462000" />
+      <workItem from="1674725778386" duration="634000" />
     </task>
     <task id="LOCAL-00001" summary="Commit initial">
       <created>1674611769601</created>
@@ -150,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674725006259</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Commit initial">
+      <created>1674725973623</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674725973623</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
