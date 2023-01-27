@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial">
-      <change afterPath="$PROJECT_DIR$/HTML/27JavaScript函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/28JavaScript数组.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,10 +61,7 @@
       <recent name="D:\java程序\JavaWebBHFrontEnd\HTML" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.27JavaScript函数.html">
-    <configuration name="23JavaScript变量.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/23JavaScript变量.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.28JavaScript数组.html">
     <configuration name="24JavaScript数据类型.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/24JavaScript数据类型.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -77,13 +74,16 @@
     <configuration name="27JavaScript函数.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/27JavaScript函数.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="28JavaScript数组.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/28JavaScript数组.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.28JavaScript数组.html" />
         <item itemvalue="JavaScript Debug.27JavaScript函数.html" />
         <item itemvalue="JavaScript Debug.26JavaScript流程控制语句.html" />
         <item itemvalue="JavaScript Debug.25JavaScript运算符.html" />
         <item itemvalue="JavaScript Debug.24JavaScript数据类型.html" />
-        <item itemvalue="JavaScript Debug.23JavaScript变量.html" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +98,7 @@
       <workItem from="1674611559952" duration="9884000" />
       <workItem from="1674724567238" duration="462000" />
       <workItem from="1674725778386" duration="7099000" />
-      <workItem from="1674803885682" duration="6556000" />
+      <workItem from="1674803885682" duration="8890000" />
     </task>
     <task id="LOCAL-00001" summary="Commit initial">
       <created>1674611769601</created>
@@ -247,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674808983385</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Commit initial">
+      <created>1674811290431</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1674811290431</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
