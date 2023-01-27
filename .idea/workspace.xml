@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial">
-      <change afterPath="$PROJECT_DIR$/HTML/25JavaScript运算符.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/26JavaScript流程控制语句.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/26JavaScript流程控制语句.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/26JavaScript流程控制语句.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,10 +61,7 @@
       <recent name="D:\java程序\JavaWebBHFrontEnd\HTML" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.25JavaScript运算符.html">
-    <configuration name="21JavaScript引入方式.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/21JavaScript引入方式.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.26JavaScript流程控制语句.html">
     <configuration name="22JavaScript输出语句.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/22JavaScript输出语句.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -77,13 +74,16 @@
     <configuration name="25JavaScript运算符.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/25JavaScript运算符.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="26JavaScript流程控制语句.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/26JavaScript流程控制语句.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.26JavaScript流程控制语句.html" />
         <item itemvalue="JavaScript Debug.25JavaScript运算符.html" />
         <item itemvalue="JavaScript Debug.24JavaScript数据类型.html" />
         <item itemvalue="JavaScript Debug.23JavaScript变量.html" />
         <item itemvalue="JavaScript Debug.22JavaScript输出语句.html" />
-        <item itemvalue="JavaScript Debug.21JavaScript引入方式.html" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +98,7 @@
       <workItem from="1674611559952" duration="9884000" />
       <workItem from="1674724567238" duration="462000" />
       <workItem from="1674725778386" duration="7099000" />
-      <workItem from="1674803885682" duration="4255000" />
+      <workItem from="1674803885682" duration="4915000" />
     </task>
     <task id="LOCAL-00001" summary="Commit initial">
       <created>1674611769601</created>
@@ -233,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674805675409</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Commit initial">
+      <created>1674808216735</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1674808216735</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
