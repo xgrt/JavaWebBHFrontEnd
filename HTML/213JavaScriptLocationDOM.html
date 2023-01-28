@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScriptDOM</title>
+</head>
+<body>
+<img src="img/off.gif" id="light" alt="图片加载失败"><!--alt:图片无法加载时，用于替代图片的位置--><br>
+
+<div class="cls">鑫哥rt</div>
+<br>
+<div class="cls">java学习</div>
+<br>
+
+<label>兴趣爱好：
+    <input type="checkbox" name="hobby">阅读
+    <input type="checkbox" name="hobby">学习
+    <input type="checkbox" name="hobby">游戏
+</label>
+<br>
+<script>
+    /*获取：使用Document对象的方法来获取
+        1. getElementById：根据id属性值来获取。返回一个Element对象
+        2. getElementsByTagName：根据标签名称获取，返回Element对象数组
+        3. getElementsByName：根据name属性获取，返回Element对象数组
+        4. getElementsByClassName：根据class属性值获取，返回Element对象数组
+    */
+    //1、getElementById：根据id属性获取，返回一个Element对象
+    var img = document.getElementById("light");
+    alert(img);
+
+    //2. getElementsByTagName：根据标签名称获取，返回Element对象数组
+    var divs = document.getElementsByTagName("div");
+    alert(divs.length);
+    for (let i = 0; i < divs.length; i++) {
+        alert(divs[i]);
+    }
+
+    //3. getElementsByName：根据name属性获取，返回Element对象数组
+    var hobbys = document.getElementsByName("hobby");
+    for (let i = 0; i < hobbys.length; i++) {
+        alert(hobbys[i]);
+    }
+
+    //4. getElementsByClassName：根据class属性值获取，返回Element对象数组
+    var clss = document.getElementsByClassName("cls");
+    for (let i = 0; i < clss.length; i++) {
+        alert(clss[i]);
+    }
+
+</script>
+</body>
+</html>
