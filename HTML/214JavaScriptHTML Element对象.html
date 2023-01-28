@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Element对象</title>
+</head>
+<body>
+<img src="img/off.gif" id="light" alt="图片加载失败"><!--alt:图片无法加载时，用于替代图片的位置--><br>
+
+<div class="cls">鑫哥rt学java</div>
+<br>
+<div class="cls">鑫哥rt学java</div>
+<br>
+
+<label>兴趣爱好：
+    <input type="checkbox" name="hobby">阅读
+    <input type="checkbox" name="hobby">学习
+    <input type="checkbox" name="hobby">游戏
+</label>
+<br>
+<script>
+    /*获取：使用Document对象的方法来获取
+        1. getElementById：根据id属性值来获取。返回一个Element对象
+        2. getElementsByTagName：根据标签名称获取，返回Element对象数组
+        3. getElementsByName：根据name属性获取，返回Element对象数组
+        4. getElementsByClassName：根据class属性值获取，返回Element对象数组
+    */
+    //1、getElementById：根据id属性获取，返回一个Element对象
+    var img = document.getElementById("light");
+    // alert(img);
+    let i = 0;
+    setInterval(function () {
+        i++;
+        if (i === 2) {
+            i = 0;
+        }
+        if (i % 2 === 1) {
+            img.src = "img/on.gif";
+        } else if (i % 2 === 0) {
+            img.src = "img/off.gif";
+        }
+    }, 1000);
+
+
+    //2. getElementsByTagName：根据标签名称获取，返回Element对象数组
+    var divs = document.getElementsByTagName("div");
+    /*
+    * style:设置元素css样式（div没有特殊属性，有所有Element通用的属性
+    * */
+    let j = 0;
+    setInterval(function () {
+        j++;
+        if (j === 2) {
+            j = 0;
+        }
+        if (j % 2 === 1) {
+            for (let i = 0; i < divs.length; i++) {
+                divs[i].style.color = "red";
+                divs[i].innerHTML = "xgrt学java"
+            }
+        } else if (j % 2 === 0) {
+            for (let i = 0; i < divs.length; i++) {
+                divs[i].style.color = "black";
+                divs[i].innerHTML = "鑫哥rt学java"
+            }
+        }
+    }, 1000);
+
+    // alert(divs.length);
+    /*for (let i = 0; i < divs.length; i++) {
+        alert(divs[i]);
+    }*/
+
+    //3. getElementsByName：根据name属性获取，返回Element对象数组
+    var hobbys = document.getElementsByName("hobby");
+    let k = 0;
+    // alert(hobbys[i]);
+    //checked属性
+    setInterval(function () {
+        k++;
+        if (k === hobbys.length) {
+            k = 0;
+        }
+        for (let i = 0; i < hobbys.length; i++) {
+            /*if (i === k) {
+                hobbys[i].checked = true;
+            }
+            else {
+                hobbys[i].checked=false;
+            }*/
+            hobbys[i].checked = i === k;//上面代码块的简化版
+        }
+    }, 1000);
+
+
+    //4. getElementsByClassName：根据class属性值获取，返回Element对象数组
+    var clss = document.getElementsByClassName("cls");
+    /*for (let i = 0; i < clss.length; i++) {
+        alert(clss[i]);
+    }*/
+
+</script>
+</body>
+</html>
