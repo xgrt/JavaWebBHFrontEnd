@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript事件绑定</title>
+</head>
+<body>
+<input type="button" value="点我" onclick="on()"><br>
+<input type="button" value="再点我" id="btn">
+
+<script>
+    /*function on(){
+        alert("我被点了");
+    }*/
+
+    /*document.getElementById("btn").onclick=function (){
+      alert(this.value+"被点了！");
+    };*/
+
+    var buttons = document.getElementsByTagName("input");
+    for (let i=0;i<buttons.length;i++){
+        buttons[i].onclick=function (){
+            alert("’"+this.value+"‘被点了！")
+        }
+    }
+
+</script>
+
+</body>
+</html>
