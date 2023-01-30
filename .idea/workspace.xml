@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial" />
+    <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial">
+      <change afterPath="$PROJECT_DIR$/HTML/216JavaScript常见事件.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,23 +36,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "18",
-    "js.last.introduce.type": "VAR",
-    "last_opened_file_path": "D:/java程序/JavaWebBHFrontEnd/HTML/img",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;js.last.introduce.type&quot;: &quot;VAR&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java程序/JavaWebBHFrontEnd/HTML/img&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java程序\JavaWebBHFrontEnd\HTML\img" />
@@ -60,13 +63,7 @@
       <recent name="D:\java程序\JavaWebBHFrontEnd\HTML" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.214JavaScriptHTML Element对象.html">
-    <configuration name="210JavaScript自定义对象.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/210JavaScript自定义对象.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="211JavaScriptwindow对象.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/211JavaScriptwindow对象.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.216JavaScript常见事件.html">
     <configuration name="212JavaScriptLocation对象.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/212JavaScriptLocation对象.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -76,13 +73,19 @@
     <configuration name="214JavaScriptHTML Element对象.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/214JavaScriptHTML Element对象.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="215JavaScript事件绑定.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/215JavaScript事件绑定.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="216JavaScript常见事件.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/216JavaScript常见事件.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.216JavaScript常见事件.html" />
+        <item itemvalue="JavaScript Debug.215JavaScript事件绑定.html" />
         <item itemvalue="JavaScript Debug.214JavaScriptHTML Element对象.html" />
         <item itemvalue="JavaScript Debug.213JavaScriptLocationDOM.html" />
         <item itemvalue="JavaScript Debug.212JavaScriptLocation对象.html" />
-        <item itemvalue="JavaScript Debug.211JavaScriptwindow对象.html" />
-        <item itemvalue="JavaScript Debug.210JavaScript自定义对象.html" />
       </list>
     </recent_temporary>
   </component>
@@ -99,6 +102,8 @@
       <workItem from="1674725778386" duration="7099000" />
       <workItem from="1674803885682" duration="8957000" />
       <workItem from="1674871472746" duration="10434000" />
+      <workItem from="1674961865767" duration="3785000" />
+      <workItem from="1674982790208" duration="627000" />
     </task>
     <task id="LOCAL-00001" summary="Commit initial">
       <created>1674611769601</created>
@@ -331,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674902620770</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Commit initial">
+      <created>1674970162398</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1674970162398</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

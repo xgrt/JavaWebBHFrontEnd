@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript常见事件</title>
+</head>
+<body>
+<form id="register" action="#">
+    <input type="text" name="username">
+    <input type="submit" value="注册">
+</form>
+
+<script>
+    document.getElementById("register").onsubmit = function () {
+        //onsubmit：返回true，则表单会提交；返回false，表单不会提交。
+        return true;
+    };
+</script>
+</body>
+</html>
