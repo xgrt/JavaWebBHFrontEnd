@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial">
-      <change afterPath="$PROJECT_DIR$/HTML/217JavaScript案例表单验证.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/img/reg_bg_min.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/register.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,10 +61,7 @@
       <recent name="D:\java程序\JavaWebBHFrontEnd\HTML" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.217JavaScript案例表单验证.html">
-    <configuration name="213JavaScriptLocationDOM.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/213JavaScriptLocationDOM.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.218JavaScript正则表达式.html">
     <configuration name="214JavaScriptHTML Element对象.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/214JavaScriptHTML Element对象.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -82,13 +74,16 @@
     <configuration name="217JavaScript案例表单验证.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/217JavaScript案例表单验证.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="218JavaScript正则表达式.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/218JavaScript正则表达式.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.218JavaScript正则表达式.html" />
         <item itemvalue="JavaScript Debug.217JavaScript案例表单验证.html" />
         <item itemvalue="JavaScript Debug.216JavaScript常见事件.html" />
         <item itemvalue="JavaScript Debug.215JavaScript事件绑定.html" />
         <item itemvalue="JavaScript Debug.214JavaScriptHTML Element对象.html" />
-        <item itemvalue="JavaScript Debug.213JavaScriptLocationDOM.html" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +102,7 @@
       <workItem from="1674871472746" duration="10434000" />
       <workItem from="1674961865767" duration="3785000" />
       <workItem from="1674982790208" duration="627000" />
-      <workItem from="1675061283594" duration="5065000" />
+      <workItem from="1675061283594" duration="5686000" />
     </task>
     <task id="LOCAL-00001" summary="Commit initial">
       <created>1674611769601</created>
@@ -354,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675062513283</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Commit initial">
+      <created>1675066953815</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1675066953815</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

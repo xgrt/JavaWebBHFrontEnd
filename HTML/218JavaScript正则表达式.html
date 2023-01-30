@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript正则表达式</title>
+</head>
+<body>
+<script>
+    // 规则：单词支付、6~12
+    var reg=/^\w{6,12}$/;
+    var str="adssas"
+    let flag = reg.test(str);
+    alert(flag);
+</script>
+</body>
+</html>
