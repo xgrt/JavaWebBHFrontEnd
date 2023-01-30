@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial" />
+    <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/217JavaScript案例表单验证.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/217JavaScript案例表单验证.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +64,7 @@
       <recent name="D:\java程序\JavaWebBHFrontEnd\HTML" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.218JavaScript正则表达式.html">
+  <component name="RunManager" selected="JavaScript Debug.217JavaScript案例表单验证.html">
     <configuration name="214JavaScriptHTML Element对象.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/214JavaScriptHTML Element对象.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -79,8 +82,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.218JavaScript正则表达式.html" />
         <item itemvalue="JavaScript Debug.217JavaScript案例表单验证.html" />
+        <item itemvalue="JavaScript Debug.218JavaScript正则表达式.html" />
         <item itemvalue="JavaScript Debug.216JavaScript常见事件.html" />
         <item itemvalue="JavaScript Debug.215JavaScript事件绑定.html" />
         <item itemvalue="JavaScript Debug.214JavaScriptHTML Element对象.html" />
@@ -102,7 +105,7 @@
       <workItem from="1674871472746" duration="10434000" />
       <workItem from="1674961865767" duration="3785000" />
       <workItem from="1674982790208" duration="627000" />
-      <workItem from="1675061283594" duration="5686000" />
+      <workItem from="1675061283594" duration="6320000" />
     </task>
     <task id="LOCAL-00001" summary="Commit initial">
       <created>1674611769601</created>
@@ -356,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675066953815</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Commit initial">
+      <created>1675068213555</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1675068213555</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

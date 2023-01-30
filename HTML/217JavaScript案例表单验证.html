@@ -63,8 +63,10 @@
     function checkUsername() {
         //1.3获取用户输入的用户名
         var username = usernameInput.value.trim();//trim：去除字符串两边的空格
-        let flag = username.length >= 6 && username.length <= 12;
-        //1.4判断用户名是否符合规则：长度 6~12
+        //1.4判断用户名是否符合规则：长度 6~12，单词字符组成
+        let reg=/^\w{6,12}$/;
+        let flag = reg.test(username);
+        // let flag = username.length >= 6 && username.length <= 12;
         if (flag) {
             //符合规则
             document.getElementById("username_err").style.display = 'none';
@@ -86,8 +88,9 @@
     function checkPassword() {
         //1.3获取用户输入的密码
         var password = passwordInput.value.trim();//trim：去除字符串两边的空格
-        let flag = password.length >= 6 && password.length <= 12;
-        //1.4判断密码是否符合规则：长度 6~12
+        //1.4判断用户名是否符合规则：长度 6~12，单词字符组成
+        let reg=/^\w{6,12}$/;
+        let flag = reg.test(password);
         if (flag) {
             //符合规则
             document.getElementById("password_err").style.display = 'none';
@@ -109,8 +112,10 @@
     function checkTel() {
         //1.3获取用户输入的手机号
         var tel = telInput.value.trim();//trim：去除字符串两边的空格
-        let flag = tel.length === 11;
-        //1.4判断手机号是否符合规则：长度 6~12
+        //1.4判断手机号是否符合规则：长度 11
+        //1.4判断用户名是否符合规则：长度 6~12 数字组成 第一位是1
+        let reg=/^[1]\d{10}$/;
+        let flag = reg.test(tel);
         if (flag) {
             //符合规则
             document.getElementById("tel_err").style.display = 'none';
