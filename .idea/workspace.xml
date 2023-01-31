@@ -10,21 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajaxDemo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajaxDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/java/com/xgrt/web/servlet/AjaxServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/java/com/xgrt/web/servlet/SelectUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/webapp/31ajaxDemo1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/webapp/css/register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/webapp/imgs/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/webapp/imgs/reg_bg_min.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/webapp/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/java/com/xgrt/web/servlet/AxiosServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/webapp/02axiosDemo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/webapp/02axiosDemo2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/webapp/js/axios.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,23 +76,24 @@
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
     "js.last.introduce.type": "LET",
-    "last_opened_file_path": "D:/java程序/JavaWebBHFrontEnd/ajaxDemo/src/main/webapp",
+    "last_opened_file_path": "D:/java程序/JavaWebBHFrontEnd/ajaxDemo/src/main/webapp/js",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java程序\JavaWebBHFrontEnd\ajaxDemo\src\main\webapp\js" />
       <recent name="D:\java程序\JavaWebBHFrontEnd\ajaxDemo\src\main\webapp" />
       <recent name="D:\java程序\JavaWebBHFrontEnd\HTML\img" />
       <recent name="D:\java程序\JavaWebBHFrontEnd\css" />
       <recent name="D:\java程序\JavaWebBHFrontEnd\HTML" />
-      <recent name="D:\java程序\JavaWebBHFrontEnd\HTML\文件" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\java程序\JavaWebBHFrontEnd\HTML" />
@@ -248,7 +238,7 @@
       <workItem from="1675061283594" duration="7078000" />
       <workItem from="1675136881792" duration="835000" />
       <workItem from="1675137985681" duration="626000" />
-      <workItem from="1675138722014" duration="8044000" />
+      <workItem from="1675138722014" duration="12375000" />
     </task>
     <task id="LOCAL-00001" summary="Commit initial">
       <created>1674611769601</created>
@@ -516,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675069069209</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Commit initial">
+      <created>1675153080591</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1675153080605</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
