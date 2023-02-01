@@ -9,7 +9,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial" />
+    <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial">
+      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/java/com/xgrt/json/FastJsonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/java/com/xgrt/json/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/webapp/34JSON基础语法.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajaxDemo/src/main/webapp/02axiosDemo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ajaxDemo/src/main/webapp/32axiosDemo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajaxDemo/src/main/webapp/02axiosDemo2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ajaxDemo/src/main/webapp/33axiosDemo2.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,8 +28,8 @@
         <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -77,7 +84,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "MavenSettings",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -93,9 +100,19 @@
       <recent name="D:\java程序\JavaWebBHFrontEnd\HTML" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 10.1.02">
-    <configuration name="214JavaScriptHTML Element对象.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/214JavaScriptHTML Element对象.html" useBuiltInWebServerPort="true">
-      <method v="2" />
+  <component name="RunManager" selected="Application.FastJsonDemo">
+    <configuration name="FastJsonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xgrt.json.FastJsonDemo" />
+      <module name="ajaxDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xgrt.json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="215JavaScript事件绑定.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWebBHFrontEnd/HTML/215JavaScript事件绑定.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -110,6 +127,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Tomcat 10.1.02" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.02" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="37cae5b9-e8b2-4949-9172-aafa37fbc09c" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="ajaxDemo:war">
@@ -197,7 +215,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.214JavaScriptHTML Element对象.html" />
+      <item itemvalue="Application.FastJsonDemo" />
       <item itemvalue="JavaScript Debug.215JavaScript事件绑定.html" />
       <item itemvalue="JavaScript Debug.216JavaScript常见事件.html" />
       <item itemvalue="JavaScript Debug.217JavaScript案例表单验证.html" />
@@ -206,11 +224,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FastJsonDemo" />
         <item itemvalue="JavaScript Debug.217JavaScript案例表单验证.html" />
         <item itemvalue="JavaScript Debug.218JavaScript正则表达式.html" />
         <item itemvalue="JavaScript Debug.216JavaScript常见事件.html" />
         <item itemvalue="JavaScript Debug.215JavaScript事件绑定.html" />
-        <item itemvalue="JavaScript Debug.214JavaScriptHTML Element对象.html" />
       </list>
     </recent_temporary>
   </component>
@@ -233,6 +251,7 @@
       <workItem from="1675136881792" duration="835000" />
       <workItem from="1675137985681" duration="626000" />
       <workItem from="1675138722014" duration="12511000" />
+      <workItem from="1675211604459" duration="3789000" />
     </task>
     <task id="LOCAL-00001" summary="Commit initial">
       <created>1674611769601</created>
@@ -514,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675158504520</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Commit initial">
+      <created>1675211973355</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1675211973355</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,5 +561,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Commit initial" />
     <option name="LAST_COMMIT_MESSAGE" value="Commit initial" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
