@@ -9,13 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial">
-      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/java/com/xgrt/web/servlet/AxiosServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/webapp/02axiosDemo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/webapp/02axiosDemo2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajaxDemo/src/main/webapp/js/axios.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +232,7 @@
       <workItem from="1675061283594" duration="7078000" />
       <workItem from="1675136881792" duration="835000" />
       <workItem from="1675137985681" duration="626000" />
-      <workItem from="1675138722014" duration="12375000" />
+      <workItem from="1675138722014" duration="12511000" />
     </task>
     <task id="LOCAL-00001" summary="Commit initial">
       <created>1674611769601</created>
@@ -513,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675153080605</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Commit initial">
+      <created>1675158504520</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1675158504520</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
