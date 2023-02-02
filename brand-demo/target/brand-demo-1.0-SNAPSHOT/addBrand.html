@@ -16,9 +16,68 @@
     <input type="radio" name="status" value="0">禁用
     <input type="radio" name="status" value="1">启用<br>
 
-    <input type="button" id="btn"  value="提交">
+    <input type="button" id="btn" value="提交"><!--普通按钮-->
 </form>
 
+<script src="js/axios.js"></script>
+<script>
+    //1.给按钮绑定单击事件
+    document.getElementById("btn").onclick = function () {
+        //将表单数据转为JSON
+        var formData = {
+            brandName: "",
+            companyName: "",
+            ordered: "",
+            description: "",
+            status: "",
+        };
 
+        //获取表单数据
+        let brandName = document.getElementById("brandName").value;
+        //设置数据
+        formData.brandName=brandName;
+
+        //获取表单数据
+        let companyName = document.getElementById("companyName").value;
+        //设置数据
+        formData.companyName=companyName;
+
+        //获取表单数据
+        let ordered = document.getElementById("ordered").value;
+        //设置数据
+        formData.ordered=ordered;
+
+        //获取表单数据
+        let description = document.getElementById("description").value;
+        //设置数据
+        formData.description=description;
+
+        //获取表单数据
+        /*let status = document.getElementById("status").value;
+        //设置数据
+        formData.status=status;*/
+        let status = document.getElementsByName("status");
+        for (let i=0;i<status.length;i++){
+            if(status[i].checked){
+                //
+                formData.status=status[i].value;
+            }
+        }
+
+        console.log(formData);
+
+        //2.通过Axios发送JSON请求
+        axios({
+            method: "post",
+            url: "http://localhost:8080/addServlet",
+            data: formData
+        }).then(function (resp) {
+            //判断响应数据是否为success
+            if (resp.data === "success") {
+                location.href = "http://localhost:8080/brand.html";
+            }
+        });
+    }
+</script>
 </body>
 </html>

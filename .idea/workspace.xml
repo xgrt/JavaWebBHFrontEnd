@@ -10,62 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228bec52-affd-4ab8-9230-f15a9e2bdbce" name="Changes" comment="Commit initial">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1d3a90f3-3e4c-4092-b198-38e214b25f60.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1d3a90f3-3e4c-4092-b198-38e214b25f60/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1d3a90f3-3e4c-4092-b198-38e214b25f60/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1d3a90f3-3e4c-4092-b198-38e214b25f60/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1d3a90f3-3e4c-4092-b198-38e214b25f60/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/src/main/java/com/xgrt/mapper/BrandMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/src/main/java/com/xgrt/pojo/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/src/main/java/com/xgrt/service/BrandService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/src/main/java/com/xgrt/util/SqlSessionFactoryUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/src/main/java/com/xgrt/web/SelectAllServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/src/main/resources/com/xgrt/mapper/BrandMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/src/main/webapp/addBrand.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/src/main/webapp/brand.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/src/main/webapp/js/axios.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/classes/com/xgrt/mapper/BrandMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/classes/com/xgrt/mapper/BrandMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/classes/com/xgrt/pojo/Brand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/classes/com/xgrt/service/BrandService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/classes/com/xgrt/util/SqlSessionFactoryUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/classes/com/xgrt/web/SelectAllServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/classes/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/lib/druid-1.2.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/lib/fastjson-2.0.22.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/lib/fastjson2-2.0.22.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/lib/fastjson2-extension-2.0.22.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/lib/jakarta.annotation-api-2.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/lib/jakarta.el-api-5.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/lib/jakarta.servlet-api-6.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/lib/jakarta.servlet.jsp-api-3.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.5.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-j-8.0.31.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/lib/protobuf-java-3.19.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/addBrand.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/brand.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/js/axios.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/classes/com/xgrt/mapper/BrandMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/classes/com/xgrt/mapper/BrandMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/classes/com/xgrt/pojo/Brand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/classes/com/xgrt/service/BrandService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/classes/com/xgrt/util/SqlSessionFactoryUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/classes/com/xgrt/web/SelectAllServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-demo/target/classes/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brand-demo/src/main/java/com/xgrt/web/AddServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brand-demo/src/main/webapp/addBrand.html" beforeDir="false" afterPath="$PROJECT_DIR$/brand-demo/src/main/webapp/addBrand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/classes/com/xgrt/service/BrandService.class" beforeDir="false" afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/classes/com/xgrt/service/BrandService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/classes/com/xgrt/web/SelectAllServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/WEB-INF/classes/com/xgrt/web/SelectAllServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/addBrand.html" beforeDir="false" afterPath="$PROJECT_DIR$/brand-demo/target/brand-demo-1.0-SNAPSHOT/addBrand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brand-demo/target/classes/com/xgrt/service/BrandService.class" beforeDir="false" afterPath="$PROJECT_DIR$/brand-demo/target/classes/com/xgrt/service/BrandService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brand-demo/target/classes/com/xgrt/web/SelectAllServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/brand-demo/target/classes/com/xgrt/web/SelectAllServlet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -308,7 +261,7 @@
       <workItem from="1675138722014" duration="12511000" />
       <workItem from="1675211604459" duration="9160000" />
       <workItem from="1675328051682" duration="2173000" />
-      <workItem from="1675330586902" duration="2678000" />
+      <workItem from="1675330586902" duration="5163000" />
     </task>
     <task id="LOCAL-00001" summary="Commit initial">
       <created>1674611769601</created>
@@ -604,7 +557,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675225624936</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Commit initial">
+      <created>1675333603973</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1675333603973</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
